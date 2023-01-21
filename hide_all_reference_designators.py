@@ -1,6 +1,7 @@
 """Script to hide ALL the `Reference designator`s in a KiCAD PCB file
-(e.g. `my_pcb.kicad_pcb`). Place this script anywhere in your computer,
-execute it with Python 3 and follow the instrucitons.
+(e.g. `my_pcb.kicad_pcb`) as well as the `Value`s field. 
+Place this script anywhere in your computer, execute it with Python 3 
+and follow the instrucitons.
 
 Example:
 ```
