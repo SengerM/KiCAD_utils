@@ -23,6 +23,7 @@ board = board_handle.GetBoard()
 
 for footprint in board.GetFootprints():
 	footprint.Reference().SetVisible(False)
+	footprint.Value().SetVisible(False)
 
 board.Save(str(path))
 
